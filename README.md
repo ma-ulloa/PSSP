@@ -1,6 +1,6 @@
 # Protein Secondary Structure Prediction
 
-This repository contains the code for a project focused on predicting protein secondary structures using multilayer fully connected neural networks. The project is a part of a Bioinformatics course and was authored by María Alejandra Ulloa from Stockholm University, Sweden.
+This repository contains the code for a project focused on predicting protein secondary structures using multilayer fully connected neural networks. The project is a part of a Bioinformatics course held at Stockholm University, Sweden.
 
 In this project, a fully connected neural network model was developed to predict secondary structures from amino acid sequences with a 76% overall accuracy. The model is particularly effective at predicting 2D conformations such as 𝛼-helices, 𝛽-sheets, and coils.
 
